@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.www.client.pm.ListPrivacyMechanismsActivity">
+    <item
+        android:id="@+id/get_privacy_mechanism_action_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:title="@string/get_privacy_mechanism_action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always" />
+</menu>

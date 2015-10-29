@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.www.client.pr.PrivacyRegionsActivity">
+    <item
+        android:id="@+id/action_bar_switch"
+        android:showAsAction="always"
+        android:actionLayout="@layout/switch_button"
+        android:gravity="center_vertical"
+        android:title="" />
+</menu>

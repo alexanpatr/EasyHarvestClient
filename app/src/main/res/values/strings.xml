@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyHarvest</string>
+    <string name="title_activity_client_settings">Client settings</string>
+    <!-- Menu items -->
+    <string name="menu_settings">Settings</string>
+    <!-- Buttons -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <!-- NetworkActivity -->
+    <string name="lost_connection">No connection</string>
+    <string name="wifi_connected">Wi-Fi connected</string>
+    <string name="connection_error">Unable to establish connection</string>
+    <string name="title_activity_privacy_regions">PrivacyRegions</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Google Maps -->
+    <!-- MAC -->
+    <!--<string name="maps_api_key">AIzaSyDO6J0VaCqSqRZ-WIyhKomMpZUVnHp-b2s</string>-->
+    <!-- PC -->
+    <string name="maps_api_key">AIzaSyA8-8qOxK_2kmMUJ5jEK5yvtkaZ7vBbcL8</string>
+
+    <!-- PrivacyRegions -->
+    <string name="privacy_regions_id">privacy_regions</string>
+    <string name="privacy_regions_title">Privacy regions</string>
+    <string name="privacy_regions_summary">Privacy regions summary</string>
+    <string name="privacy_regions_status">privacyRegionsStatus</string>
+    <string name="title_activity_new_privacy_region">New privacy region</string>
+    <string name="title_activity_view_privacy_region">ViewPrivacyRegionActivity</string>
+    <string name="title_activity_edit_privacy_region">Edit privacy region</string>
+
+    <!-- PrivacyMechanisms -->
+    <string name="privacy_mechanisms_id">privacy_mechanisms</string>
+    <string name="privacy_mechanisms_key">privacy_mechanisms_key</string>
+    <string name="privacy_mechanisms_title">Privacy mechanisms</string>
+    <string name="privacy_mechanisms_summary">View and install privacy mechanisms</string>
+    <string name="title_activity_privacy_mechanisms">Privacy mechanisms</string>
+    <!-- Menu -->
+    <string name="privacy_mechanisms_get_list">Available</string>
+    <string name="privacy_mechanisms_view_installed">Installed</string>
+
+    <!-- GetPrivacyMechanism -->
+    <string name="title_activity_get_privacy_mechanism">Install a privacy mechanism</string>
+    <!-- Menu -->
+    <string name="get_privacy_mechanism_action_refresh">Refresh</string>
+    <string name="title_activity_view_privacy_mechanism">View privacy mechanism</string>
+
+</resources>
